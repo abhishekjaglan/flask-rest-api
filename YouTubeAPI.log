@@ -90,3 +90,85 @@
 2024-11-25 11:47:24 - werkzeug - INFO -  * Restarting with stat
 2024-11-25 11:47:25 - werkzeug - WARNING -  * Debugger is active!
 2024-11-25 11:47:25 - werkzeug - INFO -  * Debugger PIN: 338-925-438
+2024-11-25 12:22:35 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:2024
+2024-11-25 12:22:35 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-25 12:22:35 - werkzeug - INFO -  * Restarting with stat
+2024-11-25 12:22:35 - werkzeug - WARNING -  * Debugger is active!
+2024-11-25 12:22:35 - werkzeug - INFO -  * Debugger PIN: 593-147-372
+2024-11-25 12:52:53 - werkzeug - INFO -  * Detected change in '/Users/abhishekjaglan/Desktop/AI-ML/python/flask-rest-api/1-basic/main.py', reloading
+2024-11-25 12:52:53 - werkzeug - INFO -  * Restarting with stat
+2024-11-25 12:52:53 - werkzeug - WARNING -  * Debugger is active!
+2024-11-25 12:52:53 - werkzeug - INFO -  * Debugger PIN: 593-147-372
+2024-11-25 12:53:20 - werkzeug - INFO -  * Detected change in '/Users/abhishekjaglan/Desktop/AI-ML/python/flask-rest-api/1-basic/main.py', reloading
+2024-11-25 12:53:20 - werkzeug - INFO -  * Restarting with stat
+2024-11-25 12:53:21 - werkzeug - WARNING -  * Debugger is active!
+2024-11-25 12:53:21 - werkzeug - INFO -  * Debugger PIN: 593-147-372
+2024-11-25 12:53:34 - youTube API - DEBUG - {'name': 'Jumping from a House', 'views': 425, 'likes': 3849}
+2024-11-25 12:53:34 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 12:53:34] "[35m[1mPOST /video/3 HTTP/1.1[0m" 500 -
+2024-11-25 12:55:00 - werkzeug - INFO -  * Detected change in '/Users/abhishekjaglan/Desktop/AI-ML/python/flask-rest-api/1-basic/main.py', reloading
+2024-11-25 12:55:01 - werkzeug - INFO -  * Restarting with stat
+2024-11-25 12:55:01 - werkzeug - WARNING -  * Debugger is active!
+2024-11-25 12:55:01 - werkzeug - INFO -  * Debugger PIN: 593-147-372
+2024-11-25 12:55:22 - youTube API - DEBUG - {'name': 'Jumping from a House', 'views': 425, 'likes': 3849}
+2024-11-25 12:55:22 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 12:55:22] "[35m[1mPOST /video/3 HTTP/1.1[0m" 201 -
+2024-11-25 12:56:51 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 12:56:51] "[35m[1mGET /video/3 HTTP/1.1[0m" 500 -
+2024-11-25 12:57:54 - werkzeug - INFO -  * Detected change in '/Users/abhishekjaglan/Desktop/AI-ML/python/flask-rest-api/1-basic/main.py', reloading
+2024-11-25 12:57:54 - werkzeug - INFO -  * Restarting with stat
+2024-11-25 12:57:55 - werkzeug - WARNING -  * Debugger is active!
+2024-11-25 12:57:55 - werkzeug - INFO -  * Debugger PIN: 593-147-372
+2024-11-25 12:57:58 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 12:57:58] "GET /video/3 HTTP/1.1" 200 -
+2024-11-25 13:27:44 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:27:44] "[31m[1mPUT /video/3 HTTP/1.1[0m" 405 -
+2024-11-25 13:27:49 - youTube API - DEBUG - {'name': 'Jumping from a House', 'views': 425, 'likes': 3849}
+2024-11-25 13:27:49 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:27:49] "[31m[1mPOST /video/3 HTTP/1.1[0m" 409 -
+2024-11-25 13:28:04 - werkzeug - INFO -  * Detected change in '/Users/abhishekjaglan/Desktop/AI-ML/python/flask-rest-api/1-basic/main.py', reloading
+2024-11-25 13:28:04 - werkzeug - INFO -  * Restarting with stat
+2024-11-25 13:28:04 - werkzeug - WARNING -  * Debugger is active!
+2024-11-25 13:28:04 - werkzeug - INFO -  * Debugger PIN: 593-147-372
+2024-11-25 13:28:10 - youTube API - DEBUG - {'name': 'Jumping from a House', 'views': 425, 'likes': 3849}
+2024-11-25 13:28:10 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:28:10] "[31m[1mPOST /video/3 HTTP/1.1[0m" 409 -
+2024-11-25 13:28:29 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:28:29] "GET /video/3 HTTP/1.1" 200 -
+2024-11-25 13:28:42 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:2024
+2024-11-25 13:28:42 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-25 13:28:42 - werkzeug - INFO -  * Restarting with stat
+2024-11-25 13:28:42 - werkzeug - WARNING -  * Debugger is active!
+2024-11-25 13:28:42 - werkzeug - INFO -  * Debugger PIN: 593-147-372
+2024-11-25 13:28:44 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:28:44] "GET /video/3 HTTP/1.1" 200 -
+2024-11-25 13:28:46 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:28:46] "GET /video/3 HTTP/1.1" 200 -
+2024-11-25 13:29:03 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:29:03] "[35m[1mDELETE /video/3 HTTP/1.1[0m" 500 -
+2024-11-25 13:29:20 - werkzeug - INFO -  * Detected change in '/Users/abhishekjaglan/Desktop/AI-ML/python/flask-rest-api/1-basic/main.py', reloading
+2024-11-25 13:29:20 - werkzeug - INFO -  * Restarting with stat
+2024-11-25 13:29:20 - werkzeug - WARNING -  * Debugger is active!
+2024-11-25 13:29:20 - werkzeug - INFO -  * Debugger PIN: 593-147-372
+2024-11-25 13:29:23 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:29:23] "[35m[1mDELETE /video/3 HTTP/1.1[0m" 500 -
+2024-11-25 13:30:24 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:30:24] "GET /video/3 HTTP/1.1" 200 -
+2024-11-25 13:30:29 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:30:29] "[35m[1mDELETE /video/3 HTTP/1.1[0m" 500 -
+2024-11-25 13:31:50 - werkzeug - INFO -  * Detected change in '/Users/abhishekjaglan/Desktop/AI-ML/python/flask-rest-api/1-basic/main.py', reloading
+2024-11-25 13:31:50 - werkzeug - INFO -  * Restarting with stat
+2024-11-25 13:31:51 - werkzeug - WARNING -  * Debugger is active!
+2024-11-25 13:31:51 - werkzeug - INFO -  * Debugger PIN: 593-147-372
+2024-11-25 13:33:35 - werkzeug - INFO -  * Detected change in '/Users/abhishekjaglan/Desktop/AI-ML/python/flask-rest-api/1-basic/main.py', reloading
+2024-11-25 13:33:36 - werkzeug - INFO -  * Restarting with stat
+2024-11-25 13:33:36 - werkzeug - WARNING -  * Debugger is active!
+2024-11-25 13:33:36 - werkzeug - INFO -  * Debugger PIN: 593-147-372
+2024-11-25 13:33:41 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:33:41] "[35m[1mDELETE /video/3 HTTP/1.1[0m" 204 -
+2024-11-25 13:33:47 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:33:47] "[33mGET /video/3 HTTP/1.1[0m" 404 -
+2024-11-25 13:33:54 - youTube API - DEBUG - {'name': 'Jumping from a House', 'views': 425, 'likes': 3849}
+2024-11-25 13:33:54 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:33:54] "[35m[1mPOST /video/3 HTTP/1.1[0m" 201 -
+2024-11-25 13:34:13 - youTube API - DEBUG - {'name': 'Jumping from a Building', 'views': 4225, 'likes': 45}
+2024-11-25 13:34:13 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:34:13] "[35m[1mPOST /video/2 HTTP/1.1[0m" 201 -
+2024-11-25 13:34:33 - youTube API - DEBUG - {'name': 'Jumping from a Hill', 'views': 32215, 'likes': 425}
+2024-11-25 13:34:33 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:34:33] "[35m[1mPOST /video/1 HTTP/1.1[0m" 201 -
+2024-11-25 13:34:38 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:34:38] "GET /video/1 HTTP/1.1" 200 -
+2024-11-25 13:41:23 - werkzeug - INFO -  * Detected change in '/Users/abhishekjaglan/Desktop/AI-ML/python/flask-rest-api/1-basic/main.py', reloading
+2024-11-25 13:41:23 - werkzeug - INFO -  * Restarting with stat
+2024-11-25 13:41:23 - werkzeug - WARNING -  * Debugger is active!
+2024-11-25 13:41:23 - werkzeug - INFO -  * Debugger PIN: 593-147-372
+2024-11-25 13:44:04 - werkzeug - INFO -  * Detected change in '/Users/abhishekjaglan/Desktop/AI-ML/python/flask-rest-api/1-basic/main.py', reloading
+2024-11-25 13:44:05 - werkzeug - INFO -  * Restarting with stat
+2024-11-25 13:44:05 - werkzeug - WARNING -  * Debugger is active!
+2024-11-25 13:44:05 - werkzeug - INFO -  * Debugger PIN: 593-147-372
+2024-11-25 13:44:27 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:44:27] "PATCH /video/1 HTTP/1.1" 200 -
+2024-11-25 13:44:40 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:44:40] "PATCH /video/1 HTTP/1.1" 200 -
+2024-11-25 13:44:44 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2024 13:44:44] "GET /video/1 HTTP/1.1" 200 -
